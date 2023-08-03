@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="googleImg" transform="translate(-1284 -585)">
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="17.5" cy="17.5" r="17.5" transform="translate(1284 585)" fill="#db1477"/>
+    <g id="icons8-google" transform="translate(1286.812 587.812)">
+      <path id="Path_5562" data-name="Path 5562" d="M26.159,13h-.9V12.95H15.188v4.475h6.323a6.718,6.718,0,1,1-1.87-7.25l3.165-3.165a11.177,11.177,0,1,0,3.57,8.177A11.264,11.264,0,0,0,26.159,13Z" fill="#fff"/>
+      <path id="Path_5563" data-name="Path 5563" d="M6.306,9.981l3.676,2.7a6.7,6.7,0,0,1,10.676-2.5l3.165-3.165A11.166,11.166,0,0,0,6.306,9.981Z" transform="translate(-1.016)" fill="#fff"/>
+      <path id="Path_5564" data-name="Path 5564" d="M16.155,36.974a11.136,11.136,0,0,0,7.5-2.9l-3.463-2.93a6.7,6.7,0,0,1-10.35-3.086L6.2,30.865A11.179,11.179,0,0,0,16.155,36.974Z" transform="translate(-0.967 -10.598)" fill="#fff"/>
+      <path id="Path_5565" data-name="Path 5565" d="M34.971,20.046,34.962,20H24v4.475h6.323a6.735,6.735,0,0,1-2.286,3.116h0l3.463,2.93a10.823,10.823,0,0,0,3.687-8.283A11.264,11.264,0,0,0,34.971,20.046Z" transform="translate(-8.812 -7.05)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

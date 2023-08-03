@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131.098" height="131.098" viewBox="0 0 131.098 131.098">
+  <g id="imgPayDone" transform="translate(-7.326 -7.326)">
+    <path id="Ellipse_19" data-name="Ellipse 19" d="M65.549,0A65.549,65.549,0,1,1,0,65.549,65.549,65.549,0,0,1,65.549,0Z" transform="translate(7.326 7.326)" fill="#db1477"/>
+    <g id="vuesax_outline_card-tick" data-name="vuesax/outline/card-tick" transform="translate(31.353 35.466)">
+      <g id="vuesax_outline_card-tick-2" data-name="vuesax/outline/card-tick">
+        <g id="card-tick">
+          <path id="Vector" d="M2.482,4.963A2.5,2.5,0,0,1,0,2.482,2.5,2.5,0,0,1,2.482,0H40.534a2.5,2.5,0,0,1,2.482,2.482,2.5,2.5,0,0,1-2.482,2.482Z" transform="translate(4.136 25.644)" fill="#fff"/>
+          <path id="Vector-2" data-name="Vector" d="M2.482,4.963A2.5,2.5,0,0,1,0,2.482,2.5,2.5,0,0,1,2.482,0H9.1a2.5,2.5,0,0,1,2.482,2.482A2.5,2.5,0,0,1,9.1,4.963Z" transform="translate(17.372 52.116)" fill="#fff"/>
+          <path id="Vector-3" data-name="Vector" d="M2.482,4.963A2.5,2.5,0,0,1,0,2.482,2.5,2.5,0,0,1,2.482,0H15.717A2.5,2.5,0,0,1,18.2,2.482a2.5,2.5,0,0,1-2.482,2.482Z" transform="translate(32.262 52.116)" fill="#fff"/>
+          <path id="Vector-4" data-name="Vector" d="M17.173,61.215C4,61.215,0,57.245,0,44.207v-27.2C0,3.971,4,0,17.173,0H40.534a2.5,2.5,0,0,1,2.482,2.482,2.5,2.5,0,0,1-2.482,2.482H17.173c-10.39,0-12.21,1.787-12.21,12.045V44.174c0,10.258,1.82,12.045,12.21,12.045H53.936c10.39,0,12.21-1.787,12.21-12.045V27.365a2.482,2.482,0,1,1,4.963,0V44.174c.033,13.07-3.971,17.041-17.14,17.041Z" transform="translate(4.136 9.1)" fill="#fff"/>
+          <path id="Vector-5" data-name="Vector" d="M5.683,17.463.72,12.5A2.48,2.48,0,1,1,4.227,8.992l3.21,3.21L18.919.72a2.48,2.48,0,0,1,3.507,3.507L9.191,17.463a2.476,2.476,0,0,1-3.507,0Z" transform="translate(52.122 9.108)" fill="#fff"/>
+          <path id="Vector-6" data-name="Vector" d="M79.414,0V79.414H0V0Z" fill="#fff" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

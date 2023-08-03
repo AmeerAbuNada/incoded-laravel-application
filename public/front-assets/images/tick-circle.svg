@@ -1,0 +1,9 @@
+<svg id="tick-circle" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="tick-circle-2" data-name="tick-circle">
+    <g id="tick-circle-3" data-name="tick-circle">
+      <path id="Vector" d="M20,10A10,10,0,1,0,10,20,10.029,10.029,0,0,0,20,10Z" transform="translate(2 2)" fill="#db1477"/>
+      <path id="Vector-2" data-name="Vector" d="M0,2.83,2.83,5.66,8.5,0" transform="translate(7.75 9.17)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Vector-3" data-name="Vector" d="M24,0V24H0V0Z" fill="#db1477" opacity="0"/>
+    </g>
+  </g>
+</svg>

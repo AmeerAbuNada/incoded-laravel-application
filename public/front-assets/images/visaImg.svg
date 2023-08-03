@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105.229" height="34.139" viewBox="0 0 105.229 34.139">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_161370" data-name="Rectangle 161370" width="105.229" height="34.139" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="visaImg" transform="translate(0 0)">
+    <path id="Path_39389" data-name="Path 39389" d="M47.342.669,41.975,33.65h8.587L55.929.669Z" transform="translate(-4.944 -0.079)" fill="#0055a5"/>
+    <g id="Group_142316" data-name="Group 142316" transform="translate(0 0)">
+      <g id="Group_142315" data-name="Group 142315" clip-path="url(#clip-path)">
+        <path id="Path_39390" data-name="Path 39390" d="M29.807.669,21.621,23.353l-.969-4.885v0L17.764,3.639S17.415.669,13.69.669H.159L0,1.227A32.066,32.066,0,0,1,8.982,5l7.46,28.652h8.946L39.049.669Z" transform="translate(0 -0.079)" fill="#0055a5"/>
+        <path id="Path_39391" data-name="Path 39391" d="M107.317,33.65H115.2L108.327.669h-6.9a3.945,3.945,0,0,0-3.964,2.458L84.654,33.65H93.6l1.79-4.9H106.31ZM97.869,21.983,102.38,9.641l2.538,12.342Z" transform="translate(-9.972 -0.079)" fill="#0055a5"/>
+        <path id="Path_39392" data-name="Path 39392" d="M82.151,8.521l1.225-7.083A24.791,24.791,0,0,0,75.654,0c-4.261,0-14.38,1.863-14.38,10.918,0,8.521,11.876,8.627,11.876,13.1s-10.652,3.674-14.167.852l-1.277,7.4A24.055,24.055,0,0,0,67.4,34.139c5.859,0,14.7-3.035,14.7-11.291,0-8.574-11.983-9.373-11.983-13.1S78.477,6.5,82.151,8.521" transform="translate(-6.797 0)" fill="#0055a5"/>
+        <path id="Path_39393" data-name="Path 39393" d="M20.653,18.47,17.764,3.639S17.415.669,13.69.669H.159L0,1.227a33.275,33.275,0,0,1,12.744,6.4A25.722,25.722,0,0,1,20.653,18.47" transform="translate(0 -0.079)" fill="#fc9220"/>
+      </g>
+    </g>
+  </g>
+</svg>
